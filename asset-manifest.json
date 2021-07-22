@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/grill-master/static/css/main.4e0a1923.chunk.css",
-    "main.js": "/grill-master/static/js/main.1df36f6d.chunk.js",
-    "main.js.map": "/grill-master/static/js/main.1df36f6d.chunk.js.map",
+    "main.css": "/grill-master/static/css/main.3b0f6791.chunk.css",
+    "main.js": "/grill-master/static/js/main.1d53a8f4.chunk.js",
+    "main.js.map": "/grill-master/static/js/main.1d53a8f4.chunk.js.map",
     "runtime-main.js": "/grill-master/static/js/runtime-main.28782f14.js",
     "runtime-main.js.map": "/grill-master/static/js/runtime-main.28782f14.js.map",
     "static/js/2.77afe07b.chunk.js": "/grill-master/static/js/2.77afe07b.chunk.js",
     "static/js/2.77afe07b.chunk.js.map": "/grill-master/static/js/2.77afe07b.chunk.js.map",
     "index.html": "/grill-master/index.html",
-    "static/css/main.4e0a1923.chunk.css.map": "/grill-master/static/css/main.4e0a1923.chunk.css.map",
+    "static/css/main.3b0f6791.chunk.css.map": "/grill-master/static/css/main.3b0f6791.chunk.css.map",
     "static/js/2.77afe07b.chunk.js.LICENSE.txt": "/grill-master/static/js/2.77afe07b.chunk.js.LICENSE.txt",
     "static/media/meals.2971f633.jpg": "/grill-master/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.28782f14.js",
     "static/js/2.77afe07b.chunk.js",
-    "static/css/main.4e0a1923.chunk.css",
-    "static/js/main.1df36f6d.chunk.js"
+    "static/css/main.3b0f6791.chunk.css",
+    "static/js/main.1d53a8f4.chunk.js"
   ]
 }
